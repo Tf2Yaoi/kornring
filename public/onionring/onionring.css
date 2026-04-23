@@ -7,6 +7,7 @@
 
 #korn-ring {
   margin: 0 auto;
+  align-self: center;
   padding: 5px; /* creates some space around the widget */
 }
 
