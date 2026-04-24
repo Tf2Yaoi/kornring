@@ -7,6 +7,7 @@
 
 //the full URLs of all the sites in the ring
 var sites = [
+'https://childrenofthekorn.neocities.org/',
 'https://netsqhere.neocities.org/',
 'https://caniscanem.neocities.org/',
 ];
