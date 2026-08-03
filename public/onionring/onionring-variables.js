@@ -10,7 +10,7 @@ var sites = [
 'https://childrenofthekorn.neocities.org/',
 'https://netsqhere.neocities.org/',
 //'https://caniscanem.neocities.org/',
-'https://goooby.neocities.com/'
+'https://goooby.neocities.com/',
 ];
 
 //the name of the ring
