@@ -9,7 +9,6 @@
 var sites = [
 'https://childrenofthekorn.neocities.org/',
 'https://netsqhere.neocities.org/',
-//'https://caniscanem.neocities.org/',
 'https://goooby.neocities.com/',
 ];
 
